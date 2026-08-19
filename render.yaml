@@ -1,7 +1,7 @@
 services:
-  - type: webRoberto0601
+  - type: web
     # Cambiar por un nombre único antes de crear el Blueprint.
-    name: webdev-laravel-starter
+    name: webdevRoberto
     runtime: docker
     plan: free
     region: virginia
